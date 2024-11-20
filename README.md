@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ He   ro Level Classifier 🎮</h1>  
+<h1 align="center">⚔️ Hero Level Classifier 🎮</h1>  
 
 ### **Description**  
 This project is a solution to the **"Classificador de nível de Herói"** challenge proposed by the **[DIO.me](https://web.dio.me/track/formacao-logica-de-programacao)** course. The goal of this challenge is to implement a system that classifies a hero's level based on their experience (XP), using fundamental programming concepts such as variables, operators, loops, and decision structures.  
