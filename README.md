@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Hero Level Classifier 🎮</h1>  
+<h1 align="center">⚔️ He   ro Level Classifier 🎮</h1>  
 
 ### **Description**  
 This project is a solution to the **"Classificador de nível de Herói"** challenge proposed by the **[DIO.me](https://web.dio.me/track/formacao-logica-de-programacao)** course. The goal of this challenge is to implement a system that classifies a hero's level based on their experience (XP), using fundamental programming concepts such as variables, operators, loops, and decision structures.  
@@ -27,7 +27,31 @@ The application must:
 - Decision Structures  
 
 ## **How to Run the Project**  
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/your-username/heroLevelClassifierDIO.git  
 
+1. **Install Node.js**  
+   First, you need to have **Node.js** installed on your computer. If you haven't done so yet, download and install it from the official website:  
+   - [Node.js Official Site](https://nodejs.org)  
+
+2. **Clone this repository**:  
+   ```bash  
+   git clone https://github.com/annielymariah/heroLevelClassifierDIO.git  
+   ```  
+
+3. **Navigate to the project directory**:  
+   ```bash  
+   cd heroLevelClassifierDIO  
+   ```  
+
+4. **Install the dependencies**:  
+   Before running the script, you need to install the required dependencies. Run the following command:  
+   ```bash  
+   npm install  
+   ```  
+
+5. **Run the script**:  
+   After installing the dependencies, execute the project with:  
+   ```bash  
+   npm start  
+   ```  
+
+6. **Follow the on-screen prompts** to input the hero's name and experience points (XP).  
