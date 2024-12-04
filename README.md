@@ -34,7 +34,7 @@ The application must:
 
 2. **Clone this repository**:  
    ```bash  
-   git clone https://github.com/annielymariah/heroLevelClassifierDIO.git  
+   git clone https://github.com/annielymariah/hero-level-classifier-DIO.git  
    ```  
 
 3. **Navigate to the project directory**:  
