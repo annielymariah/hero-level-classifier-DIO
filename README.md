@@ -39,7 +39,7 @@ The application must:
 
 3. **Navigate to the project directory**:  
    ```bash  
-   cd heroLevelClassifierDIO  
+   cd hero-level-classifier-DIO
    ```  
 
 4. **Install the dependencies**:  
